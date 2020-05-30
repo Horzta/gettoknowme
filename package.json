@@ -2,14 +2,16 @@
   "name": "horzta.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://horzta.github.io/gettoknowme",
+  "homepage": "http://horzta.github.io/gettoknowme",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "semantic-ui-react": "^0.88.2",
     "typescript": "^3.9.3",
     "yargs-parser": "^18.1.3"
   },
