@@ -1,0 +1,207 @@
+{
+    "categories": {
+        "frontend": {
+            "label": "Frontend",
+            "skills": [
+                {
+                    "name": "basics",
+                    "label": "The Basics",
+                    "subskills": [
+                        {
+                            "label": "HTML",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "CSS",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Javascript",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                },
+                {
+                    "name": "react",
+                    "label": "React",
+                    "subskills": [
+                        {
+                            "label": "React.JS",
+                            "start_date": "06/01/2019",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "GraphQL",
+                            "start_date": "06/01/2019",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                },
+                {
+                    "name": "email",
+                    "label": "Email Design",
+                    "subskills": [
+                        {
+                            "label": "Template design",
+                            "start_date": "06/01/2019",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Adobe Campaign",
+                            "start_date": "04/17/2020",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                }
+            ]
+        },
+        "backend": {
+            "label": "Backend",
+            "skills": [
+                {
+                    "label": "PHP",
+                    "subskills": [
+                        {
+                            "label": "PHP",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Zend",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Symfony",
+                            "start_date": "01/01/2018",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Laravel",
+                            "start_date": "06/01/2019",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Mail Catcher",
+                            "start_date": "06/01/2019",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                },
+                {
+                    "label": "Python",
+                    "subskills": [
+                        {
+                            "label": "Python",
+                            "start_date": "01/01/2019",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Flask",
+                            "start_date": "01/01/2019",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Graphene",
+                            "start_date": "01/01/2019",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                },
+                {
+                    "label": "Java",
+                    "subskills": [
+                        {
+                            "label": "Java",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Spring",
+                            "start_date": "06/01/2020",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                }
+            ]
+        },
+        "devtools": {
+            "label": "Dev Tools",
+            "skills": [
+                {
+                    "label": "Version Control",
+                    "subskills": [
+                        {
+                            "label": "Git",
+                            "start_date": "01/01/2018",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Github",
+                            "start_date": "01/01/2018",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Bitbucket",
+                            "start_date": "01/01/2018",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                },
+                {
+                    "label": "Containerization",
+                    "subskills": [
+                        {
+                            "label": "Docker",
+                            "start_date": "06/01/2019",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Kubernetes",
+                            "start_date": "05/26/2020",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                },
+                {
+                    "label": "Other Tools",
+                    "subskills": [
+                        {
+                            "label": "WINSCP",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Server Administration",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                }
+            ]
+        },
+        "softskills": {
+            "label": "Soft Skills",
+            "skills": [
+                {
+                    "label": "",
+                    "subskills": [
+                        {
+                            "label": "Team Management",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        },
+                        {
+                            "label": "Project Management",
+                            "start_date": "04/14/2014",
+                            "description": "Lorem Ipsum"
+                        }
+                    ]
+                }
+            ]
+        }
+    }        
+}

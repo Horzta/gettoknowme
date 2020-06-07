@@ -5,7 +5,7 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import IndexComponent from './components/IndexComponents/IndexComponent';
+import IndexPage from './components/IndexComponents/IndexPage';
 
 function App() {
   var root = "/gettoknowme";
@@ -14,7 +14,7 @@ function App() {
     <Router>
         <Switch>
           <Route path={root}>
-            <IndexComponent />
+            <IndexPage />
           </Route>
         </Switch>
     </Router>  );
