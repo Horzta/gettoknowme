@@ -1,5 +1,5 @@
 import React from 'react';
-import { Header, Image, Container, Item } from 'semantic-ui-react';
+import { Item } from 'semantic-ui-react';
 
 class SubskillComponent extends React.Component {
     render () {
@@ -11,9 +11,6 @@ class SubskillComponent extends React.Component {
                     <Item.Content>
                         <Item.Header>{ subskill.label }</Item.Header>
                         <Item.Extra>{subskill.start_date}</Item.Extra>
-                        <Item.Description>
-                            {subskill.description}
-                        </Item.Description>
                     </Item.Content>
                 </Item>
             </React.Fragment>

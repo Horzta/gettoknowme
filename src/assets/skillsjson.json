@@ -6,53 +6,49 @@
                 {
                     "name": "basics",
                     "label": "The Basics",
+                    "description":"I started playing with HTML when I was in highschool. The present, I have extensive experience with frontend design as I have created multiple web projects and email templates. I can use CSS tags to improve designs. I believe in using the DRY method when designing with CSS for reusability and maintainability. I really understood Javascript when I was studying about React. I usually use raw javascript when creating e-mail templates.",
                     "subskills": [
                         {
                             "label": "HTML",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         },
                         {
                             "label": "CSS",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         },
                         {
                             "label": "Javascript",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         }
                     ]
                 },
                 {
                     "name": "react",
                     "label": "React",
+                    "description":"I started using React back in June 2019 when I was working for a US Based Client and I have been loving it ever since. This Web site is actually made with React and Semantic UI as a way to show you how extensive I know the language. Along with React, I used GraphQL so that to make our API more manageable. It has been great to use and it made our lives easier. We used python with flask and graphene library for the api server.",
                     "subskills": [
                         {
                             "label": "React.JS",
-                            "start_date": "06/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "06/01/2019"
                         },
                         {
                             "label": "GraphQL",
-                            "start_date": "06/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "06/01/2019"
                         }
                     ]
                 },
                 {
                     "name": "email",
                     "label": "Email Design",
+                    "description": "While I was working for the US Based Client, I also designed e-mail templates as we had triggered events that needed to send e-mails to our clients. These were basic templates that used HTML and CSS. I started doing templates with Javascript code when I was working for Telus International. Telus International Templates are more complex, having tables, headers, subheaders and branding standards. Thankfully, they have standard designs we can get from.",
                     "subskills": [
                         {
                             "label": "Template design",
-                            "start_date": "06/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "06/01/2019"
                         },
                         {
                             "label": "Adobe Campaign",
-                            "start_date": "04/17/2020",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/17/2020"
                         }
                     ]
                 }
@@ -62,67 +58,61 @@
             "label": "Backend",
             "skills": [
                 {
+                    "name": "php",
                     "label": "PHP",
+                    "description":"In my first job at CPI Outsourcing, we had an online payslip system that was created with Zend Framework. It is a PHP framework but was an older version. Seeing as Zend does not have a huge market like Laravel and Symfony, I took some initiative to learn about Symfony. I was eventually able to create an asset management system and let CPI Outsourcing use it.",
                     "subskills": [
                         {
                             "label": "PHP",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         },
                         {
                             "label": "Zend",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         },
                         {
                             "label": "Symfony",
-                            "start_date": "01/01/2018",
-                            "description": "Lorem Ipsum"
+                            "start_date": "01/01/2018"
                         },
                         {
                             "label": "Laravel",
-                            "start_date": "06/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "06/01/2019"
                         },
                         {
                             "label": "Mail Catcher",
-                            "start_date": "06/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "06/01/2019"
                         }
                     ]
                 },
                 {
                     "label": "Python",
+                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Python",
-                            "start_date": "01/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "01/01/2019"
                         },
                         {
                             "label": "Flask",
-                            "start_date": "01/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "01/01/2019"
                         },
                         {
                             "label": "Graphene",
-                            "start_date": "01/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "01/01/2019"
                         }
                     ]
                 },
                 {
                     "label": "Java",
+                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Java",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         },
                         {
                             "label": "Spring",
-                            "start_date": "06/01/2020",
-                            "description": "Lorem Ipsum"
+                            "start_date": "06/01/2020"
                         }
                     ]
                 }
@@ -133,51 +123,47 @@
             "skills": [
                 {
                     "label": "Version Control",
+                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Git",
-                            "start_date": "01/01/2018",
-                            "description": "Lorem Ipsum"
+                            "start_date": "01/01/2018"
                         },
                         {
                             "label": "Github",
-                            "start_date": "01/01/2018",
-                            "description": "Lorem Ipsum"
+                            "start_date": "01/01/2018"
                         },
                         {
                             "label": "Bitbucket",
-                            "start_date": "01/01/2018",
-                            "description": "Lorem Ipsum"
+                            "start_date": "01/01/2018"
                         }
                     ]
                 },
                 {
                     "label": "Containerization",
+                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Docker",
-                            "start_date": "06/01/2019",
-                            "description": "Lorem Ipsum"
+                            "start_date": "06/01/2019"
                         },
                         {
                             "label": "Kubernetes",
-                            "start_date": "05/26/2020",
-                            "description": "Lorem Ipsum"
+                            "start_date": "05/26/2020"
                         }
                     ]
                 },
                 {
                     "label": "Other Tools",
+                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "WINSCP",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         },
                         {
                             "label": "Server Administration",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
+                            "start_date": "04/14/2014"
                         }
                     ]
                 }
@@ -187,19 +173,12 @@
             "label": "Soft Skills",
             "skills": [
                 {
-                    "label": "",
-                    "subskills": [
-                        {
-                            "label": "Team Management",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
-                        },
-                        {
-                            "label": "Project Management",
-                            "start_date": "04/14/2014",
-                            "description": "Lorem Ipsum"
-                        }
-                    ]
+                    "label": "Team Management",
+                    "start_date": "04/14/2014"
+                },
+                {
+                    "label": "Project Management",
+                    "start_date": "04/14/2014"
                 }
             ]
         }

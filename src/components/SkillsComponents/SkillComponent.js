@@ -9,6 +9,9 @@ class SkillComponent extends React.Component {
 
         return (
             <React.Fragment>
+                <p>
+                    {skill.description}
+                </p>
                 <Item.Group divided>
                     { skill.subskills.map(subskill =>  <SubskillComponent subskill={subskill} />) }
                 </Item.Group>
