@@ -12,11 +12,6 @@ class ContactMeComponent extends React.Component {
                 <Item.Group divided>
                     <Item>
                         <Item.Content verticalAlign='middle' textAlign="center">
-                            <Icon name="phone"/> (+63) 908 412 4566
-                        </Item.Content>
-                    </Item>
-                    <Item>
-                        <Item.Content verticalAlign='middle' textAlign="center">
                             <Icon name="google"/> <a href="mailto:horzta@gmail.com">horzta@gmail.com</a>
                         </Item.Content>
                     </Item>
