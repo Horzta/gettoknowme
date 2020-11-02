@@ -6,7 +6,6 @@
                 {
                     "name": "basics",
                     "label": "The Basics",
-                    "description":"I started playing with HTML when I was in highschool. The present, I have extensive experience with frontend design as I have created multiple web projects and email templates. I can use CSS tags to improve designs. I believe in using the DRY method when designing with CSS for reusability and maintainability. I really understood Javascript when I was studying about React. I usually use raw javascript when creating e-mail templates.",
                     "subskills": [
                         {
                             "label": "HTML",
@@ -25,7 +24,6 @@
                 {
                     "name": "react",
                     "label": "React",
-                    "description":"I started using React back in June 2019 when I was working for a US Based Client and I have been loving it ever since. This Web site is actually made with React and Semantic UI as a way to show you how extensive I know the language. Along with React, I used GraphQL so that to make our API more manageable. It has been great to use and it made our lives easier. We used python with flask and graphene library for the api server.",
                     "subskills": [
                         {
                             "label": "React.JS",
@@ -40,7 +38,6 @@
                 {
                     "name": "email",
                     "label": "Email Design",
-                    "description": "While I was working for the US Based Client, I also designed e-mail templates as we had triggered events that needed to send e-mails to our clients. These were basic templates that used HTML and CSS. I started doing templates with Javascript code when I was working for Telus International. Telus International Templates are more complex, having tables, headers, subheaders and branding standards. Thankfully, they have standard designs we can get from.",
                     "subskills": [
                         {
                             "label": "Template design",
@@ -58,9 +55,7 @@
             "label": "Backend",
             "skills": [
                 {
-                    "name": "php",
                     "label": "PHP",
-                    "description":"In my first job at CPI Outsourcing, we had an online payslip system that was created with Zend Framework. It is a PHP framework but was an older version. Seeing as Zend does not have a huge market like Laravel and Symfony, I took some initiative to learn about Symfony. I was eventually able to create an asset management system and let CPI Outsourcing use it.",
                     "subskills": [
                         {
                             "label": "PHP",
@@ -86,7 +81,6 @@
                 },
                 {
                     "label": "Python",
-                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Python",
@@ -104,7 +98,6 @@
                 },
                 {
                     "label": "Java",
-                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Java",
@@ -123,7 +116,6 @@
             "skills": [
                 {
                     "label": "Version Control",
-                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Git",
@@ -141,7 +133,6 @@
                 },
                 {
                     "label": "Containerization",
-                    "description":"Lorem Ipsum",
                     "subskills": [
                         {
                             "label": "Docker",
@@ -154,15 +145,14 @@
                     ]
                 },
                 {
-                    "label": "Other Tools",
-                    "description":"Lorem Ipsum",
+                    "label": "Server Tools",
                     "subskills": [
                         {
                             "label": "WINSCP",
                             "start_date": "04/14/2014"
                         },
                         {
-                            "label": "Server Administration",
+                            "label": "Windows User Administration",
                             "start_date": "04/14/2014"
                         }
                     ]
@@ -173,14 +163,25 @@
             "label": "Soft Skills",
             "skills": [
                 {
-                    "label": "Team Management",
-                    "start_date": "04/14/2014"
+                    "label": "Project Management",
+                    "subskills": [
+                        {
+                            "label": "Project Management",
+                            "start_date": "04/14/2014"
+                        }
+                ]            
                 },
                 {
-                    "label": "Project Management",
-                    "start_date": "04/14/2014"
+                    "label": "Team Management",
+                    "subskills": [
+                        {
+                            "label": "Team Management",
+                            "start_date": "04/14/2014"
+                        }
+                ]            
                 }
-            ]
+
+            ]            
         }
     }        
 }

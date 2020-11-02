@@ -29,7 +29,7 @@ class IndexComponent extends React.Component{
                                 </Header>
                                 <Container text>
                                     <p className="about-me-p">
-                                        I'm an all around web developer with good knowledge of multiple programming languages. 
+                                        An all around web developer with good knowledge of multiple programming languages. 
                                         I love spending time planning maintainable code and discussing best practices. 
                                         I can work alone and within a team. I can do web design and frontend development 
                                         (this whole thing is actually written in React), but I work best with logic crunching 
