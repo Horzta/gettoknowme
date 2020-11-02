@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Segment } from 'semantic-ui-react';
+import ExperienceSegment from '../ExperienceComponents/ExperienceSegment';
 import SkillSegment from '../SkillsComponents/SkillSegment';
 import IndexSegment from './IndexSegment';
 
@@ -11,6 +12,7 @@ class IndexPage extends React.Component{
                 <Segment.Group>
                     <IndexSegment/>
                     <SkillSegment/>
+                    <ExperienceSegment/>
                 </Segment.Group>
             </Container>
         );

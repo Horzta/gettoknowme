@@ -1,0 +1,52 @@
+{
+    "companies":[
+        {
+            "name": "Telus International Philippines",
+            "positions":[
+                {
+                    "name":"Intermediate Applications Developer and Subject Matter Expert - Python",
+                    "start":"April 2020",
+                    "end":"Present",
+                    "description":"",
+                    "points": [
+                        "Creation of E-mail and SMS templates and workflows with Adobe Campaign",
+                        "Conduct Brown bag Sessions and Webinars about Python and its libraries",
+                        "Create Presentations and Examinations with Google Slides and Google Class"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Confidential (US)",
+            "positions":[
+                {
+                    "name":"PHP Developer",
+                    "start":"June 2019",
+                    "end":"April 2020",
+                    "description":"",
+                    "points": [
+                        "Maintained and improved existing system made from PHP and Laravel for one of the Leading Exclusions Screening and Checking Businesses in the US.",
+                        "Created the Administration System to help automate tasks for Accounts and User Management using Python and React."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CPI Outsourcing",
+            "positions":[
+                {
+                    "name":"Senior Software Developer",
+                    "start":"April 2014",
+                    "end":"June 2019",
+                    "description":"",
+                    "points": [
+                        "Developed multiple modules for the company's product which is used by more than a hundred clients.",
+                        "Improved upon the existing Uploading and Integration systems, reducing data preparation time by as much as 6 hours.",
+                        "Improved the software development processes, giving stakeholders more view on the development status and priority.",
+                        "Charged with monitoring development projects which included assessing complexity, assigning resources and create reports for the stakeholders"
+                    ]
+                }
+            ]
+        }
+    ]
+}

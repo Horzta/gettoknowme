@@ -11,7 +11,7 @@ class SkillSegment extends React.Component {
     render () {
         return (
             <Segment>
-                <Header>Skills</Header>
+                <Header size="large">Skills</Header>
                 <Item.Group>
                     <CategoryComponent category={categories.frontend} />
                     <CategoryComponent category={categories.backend} />

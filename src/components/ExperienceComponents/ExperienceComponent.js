@@ -1,0 +1,18 @@
+import React from 'react';
+import { Grid, Header, Container, Divider } from 'semantic-ui-react';
+import PositionComponent from './PositionComponent';
+
+class ExperienceComponent extends React.Component {
+    render () {
+        const { company } = this.props;
+        return (
+            <Container>
+                <Header content={company.name}/>
+                {company.positions.map(position=><PositionComponent position={position}/>)}
+                <br/><br/>
+            </Container>
+        );
+    }
+}
+
+export default ExperienceComponent;

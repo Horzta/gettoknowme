@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Image, Header, Segment, Grid, Icon } from 'semantic-ui-react';
 import  self_portrait  from '../../assets/images/self_portrait.jpg';
-import ContactMeComponent from '../GeneralComponents.js/ContactMeComponent';
+import ContactMeComponent from '../GeneralComponents/ContactMeComponent';
 
 class IndexSegment extends React.Component{
     render() {
@@ -13,7 +13,7 @@ class IndexSegment extends React.Component{
                         Horst Erich <span className="header-akira">Akira</span> Hora
                         <Header.Subheader className="header-text">
                             <div>Fullstack Software Developer</div>
-                            <div><Icon name="map marker alternate" fitted/>&nbsp;Pasig City, Philippines</div>                                
+                            <div><Icon name="map marker alternate" fitted/>&nbsp;Caloocan City, Philippines</div>                                
                         </Header.Subheader>
                     </Header>
                 </Segment>
