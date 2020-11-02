@@ -3,7 +3,7 @@ import { Container, Image, Header, Segment, Grid, Icon } from 'semantic-ui-react
 import  self_portrait  from '../../assets/images/self_portrait.jpg';
 import ContactMeComponent from '../GeneralComponents.js/ContactMeComponent';
 
-class IndexComponent extends React.Component{
+class IndexSegment extends React.Component{
     render() {
         return (
             <React.Fragment>
@@ -48,4 +48,4 @@ class IndexComponent extends React.Component{
     }
 }
 
-export default IndexComponent;
+export default IndexSegment;
