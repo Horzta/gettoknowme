@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, Header, Container, Divider } from 'semantic-ui-react';
+import { Header, Container } from 'semantic-ui-react';
 import PositionComponent from './PositionComponent';
 
 class ExperienceComponent extends React.Component {

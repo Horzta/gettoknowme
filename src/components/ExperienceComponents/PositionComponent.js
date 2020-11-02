@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, Header, List, Segment } from 'semantic-ui-react';
+import { Grid, Header, List } from 'semantic-ui-react';
 
 class PositionComponent extends React.Component {
     render () {
