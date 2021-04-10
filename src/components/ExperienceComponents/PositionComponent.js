@@ -1,5 +1,6 @@
 import React from 'react';
 import { Grid, Header, List } from 'semantic-ui-react';
+import { formatToMMMMYYYYfromString } from '../../helpers/DateHelper';
 
 class PositionComponent extends React.Component {
     render () {
@@ -12,7 +13,7 @@ class PositionComponent extends React.Component {
                     </Grid.Column>
                     <Grid.Column textAlign="right">
                         <Header size="tiny" color="grey">
-                            {position.start} - {position.end}
+                            {formatToMMMMYYYYfromString(position.start)} - {position.end === "present" ? "Present" : formatToMMMMYYYYfromString(position.end)}
                         </Header> 
                     </Grid.Column>
                 </Grid.Row>

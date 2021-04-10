@@ -9,15 +9,15 @@
                     "subskills": [
                         {
                             "label": "HTML",
-                            "start_date": "04/14/2014"
+                            "applied": [0, 1, 2, 3]
                         },
                         {
                             "label": "CSS",
-                            "start_date": "04/14/2014"
+                            "applied": [0, 1, 2, 3]
                         },
                         {
                             "label": "Javascript",
-                            "start_date": "04/14/2014"
+                            "applied": [0, 1, 2, 3]
                         }
                     ]
                 },
@@ -27,11 +27,11 @@
                     "subskills": [
                         {
                             "label": "React.JS",
-                            "start_date": "06/01/2019"
+                            "applied": [1, 3]
                         },
                         {
                             "label": "GraphQL",
-                            "start_date": "06/01/2019"
+                            "applied": [1]
                         }
                     ]
                 },
@@ -40,12 +40,12 @@
                     "label": "Email Design",
                     "subskills": [
                         {
-                            "label": "Template design",
-                            "start_date": "06/01/2019"
+                            "label": "Email Template Design",
+                            "applied": [2]
                         },
                         {
                             "label": "Adobe Campaign",
-                            "start_date": "04/17/2020"
+                            "applied": [2]
                         }
                     ]
                 }
@@ -59,23 +59,19 @@
                     "subskills": [
                         {
                             "label": "PHP",
-                            "start_date": "04/14/2014"
+                            "applied": [0,1,3]
                         },
                         {
                             "label": "Zend",
-                            "start_date": "04/14/2014"
+                            "applied": [0]
                         },
                         {
                             "label": "Symfony",
-                            "start_date": "01/01/2018"
+                            "applied": [0]
                         },
                         {
                             "label": "Laravel",
-                            "start_date": "06/01/2019"
-                        },
-                        {
-                            "label": "Mail Catcher",
-                            "start_date": "06/01/2019"
+                            "applied": [1]
                         }
                     ]
                 },
@@ -84,15 +80,15 @@
                     "subskills": [
                         {
                             "label": "Python",
-                            "start_date": "01/01/2019"
+                            "applied": [0,1,2,3]
                         },
                         {
                             "label": "Flask",
-                            "start_date": "01/01/2019"
+                            "applied": [1]
                         },
                         {
                             "label": "Graphene",
-                            "start_date": "01/01/2019"
+                            "applied": [1]
                         }
                     ]
                 },
@@ -101,11 +97,11 @@
                     "subskills": [
                         {
                             "label": "Java",
-                            "start_date": "04/14/2014"
+                            "applied": [2]
                         },
                         {
                             "label": "Spring",
-                            "start_date": "06/01/2020"
+                            "applied": [2]
                         }
                     ]
                 }
@@ -119,15 +115,11 @@
                     "subskills": [
                         {
                             "label": "Git",
-                            "start_date": "01/01/2018"
+                            "applied": [1,2,3]
                         },
                         {
                             "label": "Github",
-                            "start_date": "01/01/2018"
-                        },
-                        {
-                            "label": "Bitbucket",
-                            "start_date": "01/01/2018"
+                            "applied": [1,2,3]
                         }
                     ]
                 },
@@ -136,11 +128,7 @@
                     "subskills": [
                         {
                             "label": "Docker",
-                            "start_date": "06/01/2019"
-                        },
-                        {
-                            "label": "Kubernetes",
-                            "start_date": "05/26/2020"
+                            "applied": [1,3]
                         }
                     ]
                 },
@@ -149,11 +137,11 @@
                     "subskills": [
                         {
                             "label": "WINSCP",
-                            "start_date": "04/14/2014"
+                            "applied": [0,1,2]
                         },
                         {
                             "label": "Windows User Administration",
-                            "start_date": "04/14/2014"
+                            "applied": [0,2]
                         }
                     ]
                 }
@@ -167,7 +155,7 @@
                     "subskills": [
                         {
                             "label": "Project Management",
-                            "start_date": "04/14/2014"
+                            "applied": [0]
                         }
                 ]            
                 },
@@ -176,7 +164,7 @@
                     "subskills": [
                         {
                             "label": "Team Management",
-                            "start_date": "04/14/2014"
+                            "applied": [0]
                         }
                 ]            
                 }

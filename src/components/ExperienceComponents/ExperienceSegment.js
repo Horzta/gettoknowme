@@ -8,11 +8,10 @@ const { companies } = experiencesjson;
 
 class ExperienceSegment extends React.Component {
     render () {
-        console.log(companies);
         return (
                 <Segment>
                     <Header size="large">Experience</Header>
-                    {companies.map(company=><ExperienceComponent company={company}/>)}
+                    {companies.reverse().map(company=><ExperienceComponent company={company}/>)}
                 </Segment>
         );
     }

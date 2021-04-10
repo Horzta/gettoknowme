@@ -28,3 +28,7 @@ body {
   padding-top: 10px;
   padding-bottom: 40px;
 }
+
+.position-component {
+  padding-bottom: 4000px;
+}
